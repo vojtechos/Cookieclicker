@@ -1,2 +1,2 @@
 # politikosclickeros
-dfsd
+https://vojtechos.github.io/politikosclickeros/
