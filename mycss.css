@@ -1,0 +1,73 @@
+
+*{
+    text-align: center;
+    font: small-caps bold 24px/1 sans-serif;
+    background-color:#eee;
+    box-sizing: border-box;
+}
+h1{
+    color: #11457E;
+    font-size: 1.5em;
+}
+h2{
+    color: #11457E;
+}
+p{
+    color: red;
+    font-size: 0.75em;;
+}
+#andrej{
+    height: 250px;
+    width: 225px;
+}
+#andrej:active {
+    transform:scale(0.93);
+}
+#okamura{
+    width: 175px;
+    height: 100px;
+}
+#kostka{
+    height: 150px;
+    width: 150px;
+}
+#bozkov{
+    height: 200px;
+    width: 150px;
+}
+#bartos{
+    height: 200px;
+    width: 200px;
+}
+#costAutoClick{
+    font-size: 0.6em;
+}
+input{
+    width: 300px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    color: #11457E;
+    border: none;
+}
+#politici{
+    display: none;
+    background-color: #11457E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    width: 50%;
+}
+#politici p{
+    background-color: #11457E;
+}
+button{
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+}
+
