@@ -1,11 +1,11 @@
 let politici = document.getElementById("politici");
 
-var hlasy = 0;
-var autoClick = 0;
-var autoClick2 = 0;
-var autoClick3 = 0;
-var autoClick4 = 0;
-var multiplier = 0;
+let hlasy = 0;
+let autoClick = 0;
+let autoClick2 = 0;
+let autoClick3 = 0;
+let autoClick4 = 0;
+let multiplier = 0;
 
 function openmenu(){
     politici.style.display = "block";
